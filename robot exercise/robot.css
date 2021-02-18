@@ -1,7 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
 img {
   width: 50px;
 }
+
 #face {
   width: 400px;
 }
 
+#eyes1 {
+  position: relative;
+  right: 7.9cm;
+  bottom: 6cm;
+  width: 13%;
+}
+
+#hair1 {
+  position: absolute;
+  left: 28pt;
+  top: -15pt;
+  width: 22%;
+}
+
+#sunglasses {
+  position: absolute;
+  left: 65pt;
+  top: 150pt;
+  width: 15%;
+}
