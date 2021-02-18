@@ -4,30 +4,41 @@
 }
 
 img {
-  width: 50px;
+  width:50px ;
 }
 
 #face {
-  width: 400px;
+  width: 50vw;
 }
 
 #eyes1 {
-  position: relative;
-  right: 7.9cm;
-  bottom: 6cm;
-  width: 13%;
+  position: absolute;
+  align: left;
+  left: 11vw;
+  top: 20vw;
+  width: 28vw;
 }
 
 #hair1 {
   position: absolute;
-  left: 28pt;
-  top: -15pt;
-  width: 22%;
+  align: left;
+  left: 5vw;
+  top: -2vw;
+  width: 40vw;
 }
 
 #sunglasses {
   position: absolute;
-  left: 65pt;
-  top: 150pt;
-  width: 15%;
+  align: left;
+  left: 11vw;
+  top: 25vw;
+  width: 28vw;
+}
+
+#mouth1 {
+  position: absolute;
+  align: left;
+  left: 14vw;
+  top: 35vw;
+  width: 20vw;
 }
