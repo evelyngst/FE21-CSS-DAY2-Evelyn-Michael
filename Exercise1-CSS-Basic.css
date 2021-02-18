@@ -1,0 +1,54 @@
+div.container {
+width: 800px;
+margin: 0 auto;
+box-shadow: /* bottom */ 0 /* offset x-axis*/ 15px /* offset y-axis*/ 15px /*blur radius*/ -7px /*spread radius*/ rgb(114, 111, 111),
+/* left */ -8px 8px 5px -8px rgb(114, 111, 111), 
+/* right */ 5px 8px 10px -8px rgb(114, 111, 111);
+padding-left: 50px;
+padding-right: 50px;
+}
+
+p {
+    color: #707070;
+}
+
+li {
+    color: #707070;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+header {
+    text-align: center;
+}
+
+h1 {
+    color: #DB0038;
+}
+
+h2 {
+    color: #3998A3;
+}
+
+h3 {
+    color: #474747;
+}
+
+.hero {
+    background-color: #f4f4f4;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.rating {
+    text-align: center;
+}
+
+div.rating span{
+    color: #F4B400;
+    font-size: 25px;
+}
+
+footer {
+    text-align: center;
+}
