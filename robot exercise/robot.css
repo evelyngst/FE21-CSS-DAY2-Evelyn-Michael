@@ -13,7 +13,6 @@ img {
 
 #eyes1 {
   position: absolute;
-  align: left;
   left: 11vw;
   top: 20vw;
   width: 28vw;
@@ -21,7 +20,6 @@ img {
 
 #hair1 {
   position: absolute;
-  align: left;
   left: 5vw;
   top: -2vw;
   width: 40vw;
@@ -29,7 +27,6 @@ img {
 
 #sunglasses {
   position: absolute;
-  align: left;
   left: 11vw;
   top: 25vw;
   width: 28vw;
@@ -37,8 +34,28 @@ img {
 
 #mouth1 {
   position: absolute;
-  align: left;
   left: 14vw;
-  top: 35vw;
+  top: 38vw;
   width: 20vw;
+}
+
+#moustache {
+  position: absolute;
+  left: 14vw;
+  top: 32vw;
+  width: 20vw;
+}
+
+#nose2 {
+  position: absolute;
+  left: 20vw;
+  top: 25vw;
+  width: 10vw;
+}
+
+#ears1 {
+  position: absolute;
+  left: 0vw;
+  top: 15vw;
+  width: 48vw;
 }
